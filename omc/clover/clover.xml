@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1651681002533" clover="4.0.6">
-   <project timestamp="1651680985750" name="Joda-Time 2.10.11-SNAPSHOT">
+<coverage generated="1651686816551" clover="4.0.6">
+   <project timestamp="1651686798715" name="Joda-Time 2.10.11-SNAPSHOT">
       <metrics conditionals="5166" methods="3911" classes="242" files="166" packages="7" coveredstatements="11854" complexity="7264" loc="70870" ncloc="28810" coveredmethods="3520" coveredconditionals="4139" statements="13344" coveredelements="19513" elements="22421"/>
       <package name="org.joda.time.field">
          <metrics classes="26" methods="491" conditionals="312" files="25" ncloc="2438" coveredstatements="790" coveredmethods="366" complexity="670" coveredconditionals="246" statements="991" loc="6151" coveredelements="1402" elements="1794"/>
@@ -6883,14 +6883,14 @@
             <line num="56" count="0" type="stmt"/>
             <line num="58" count="0" type="stmt"/>
             <line num="61" count="2" type="stmt"/>
-            <line num="67" count="1030" visibility="public" complexity="2" type="method" signature="forZone(DateTimeZone) : CachedDateTimeZone"/>
-            <line num="68" count="1030" type="stmt"/>
-            <line num="68" falsecount="1027" type="cond" truecount="3"/>
+            <line num="67" count="1031" visibility="public" complexity="2" type="method" signature="forZone(DateTimeZone) : CachedDateTimeZone"/>
+            <line num="68" count="1031" type="stmt"/>
+            <line num="68" falsecount="1028" type="cond" truecount="3"/>
             <line num="69" count="3" type="stmt"/>
-            <line num="71" count="1027" type="stmt"/>
-            <line num="86" count="1027" visibility="private" complexity="1" type="method" signature="CachedDateTimeZone(DateTimeZone)"/>
-            <line num="87" count="1027" type="stmt"/>
-            <line num="88" count="1027" type="stmt"/>
+            <line num="71" count="1028" type="stmt"/>
+            <line num="86" count="1028" visibility="private" complexity="1" type="method" signature="CachedDateTimeZone(DateTimeZone)"/>
+            <line num="87" count="1028" type="stmt"/>
+            <line num="88" count="1028" type="stmt"/>
             <line num="94" count="322" visibility="public" complexity="1" type="method" signature="getUncachedZone() : DateTimeZone"/>
             <line num="95" count="322" type="stmt"/>
             <line num="98" count="32805" visibility="public" complexity="1" type="method" signature="getNameKey(long) : String"/>
@@ -7005,10 +7005,10 @@
             <line num="115" falsecount="38" type="cond" truecount="0"/>
             <line num="116" count="0" type="stmt"/>
             <line num="118" count="38" type="stmt"/>
-            <line num="119" count="383" type="stmt"/>
-            <line num="120" count="383" type="stmt"/>
-            <line num="121" count="115" type="stmt"/>
-            <line num="122" count="115" type="stmt"/>
+            <line num="119" count="384" type="stmt"/>
+            <line num="120" count="384" type="stmt"/>
+            <line num="121" count="114" type="stmt"/>
+            <line num="122" count="114" type="stmt"/>
             <line num="123" count="0" type="stmt"/>
             <line num="124" count="0" type="stmt"/>
             <line num="140" count="59438" visibility="package" complexity="8" type="method" signature="writeMillis(DataOutput,long) : void"/>
@@ -7037,26 +7037,26 @@
             <line num="176" count="446" type="stmt"/>
             <line num="176" falsecount="1" type="cond" truecount="445"/>
             <line num="177" count="446" type="stmt"/>
-            <line num="183" count="74545" visibility="package" complexity="5" type="method" signature="readMillis(DataInput) : long"/>
-            <line num="184" count="74545" type="stmt"/>
-            <line num="185" count="74545" type="stmt"/>
-            <line num="186" count="48249" type="stmt"/>
+            <line num="183" count="74850" visibility="package" complexity="5" type="method" signature="readMillis(DataInput) : long"/>
+            <line num="184" count="74850" type="stmt"/>
+            <line num="185" count="74850" type="stmt"/>
+            <line num="186" count="48452" type="stmt"/>
             <line num="186" count="0" type="stmt"/>
-            <line num="188" count="48249" type="stmt"/>
-            <line num="189" count="48249" type="stmt"/>
-            <line num="191" count="23697" type="stmt"/>
-            <line num="193" count="23697" type="stmt"/>
-            <line num="194" count="23697" type="stmt"/>
-            <line num="195" count="23697" type="stmt"/>
-            <line num="196" count="23697" type="stmt"/>
-            <line num="197" count="23697" type="stmt"/>
-            <line num="199" count="2087" type="stmt"/>
-            <line num="201" count="2087" type="stmt"/>
-            <line num="202" count="2087" type="stmt"/>
-            <line num="203" count="2087" type="stmt"/>
-            <line num="204" count="2087" type="stmt"/>
-            <line num="205" count="2087" type="stmt"/>
-            <line num="206" count="2087" type="stmt"/>
+            <line num="188" count="48452" type="stmt"/>
+            <line num="189" count="48452" type="stmt"/>
+            <line num="191" count="23796" type="stmt"/>
+            <line num="193" count="23796" type="stmt"/>
+            <line num="194" count="23796" type="stmt"/>
+            <line num="195" count="23796" type="stmt"/>
+            <line num="196" count="23796" type="stmt"/>
+            <line num="197" count="23796" type="stmt"/>
+            <line num="199" count="2090" type="stmt"/>
+            <line num="201" count="2090" type="stmt"/>
+            <line num="202" count="2090" type="stmt"/>
+            <line num="203" count="2090" type="stmt"/>
+            <line num="204" count="2090" type="stmt"/>
+            <line num="205" count="2090" type="stmt"/>
+            <line num="206" count="2090" type="stmt"/>
             <line num="208" count="512" type="stmt"/>
             <line num="210" count="512" type="stmt"/>
             <line num="214" count="66" visibility="private" complexity="5" type="method" signature="buildFixedZone(String,String,int,int) : DateTimeZone"/>
@@ -7184,18 +7184,18 @@
             <line num="476" count="322" type="stmt"/>
             <line num="478" count="112" type="stmt"/>
             <line num="480" count="434" type="stmt"/>
-            <line num="488" count="384" visibility="package" complexity="1" type="method" signature="readFrom(DataInput) : OfYear"/>
-            <line num="489" count="384" type="stmt"/>
-            <line num="506" count="19129" visibility="package" complexity="4" type="method" signature="OfYear(char,int,int,int,boolean,int)"/>
-            <line num="512" count="19129" type="stmt"/>
-            <line num="512" falsecount="19129" type="cond" truecount="0"/>
+            <line num="488" count="386" visibility="package" complexity="1" type="method" signature="readFrom(DataInput) : OfYear"/>
+            <line num="489" count="386" type="stmt"/>
+            <line num="506" count="19131" visibility="package" complexity="4" type="method" signature="OfYear(char,int,int,int,boolean,int)"/>
+            <line num="512" count="19131" type="stmt"/>
+            <line num="512" falsecount="19131" type="cond" truecount="0"/>
             <line num="513" count="0" type="stmt"/>
-            <line num="516" count="19129" type="stmt"/>
-            <line num="517" count="19129" type="stmt"/>
-            <line num="518" count="19129" type="stmt"/>
-            <line num="519" count="19129" type="stmt"/>
-            <line num="520" count="19129" type="stmt"/>
-            <line num="521" count="19129" type="stmt"/>
+            <line num="516" count="19131" type="stmt"/>
+            <line num="517" count="19131" type="stmt"/>
+            <line num="518" count="19131" type="stmt"/>
+            <line num="519" count="19131" type="stmt"/>
+            <line num="520" count="19131" type="stmt"/>
+            <line num="521" count="19131" type="stmt"/>
             <line num="527" count="69260" visibility="public" complexity="4" type="method" signature="setInstant(int,int,int) : long"/>
             <line num="528" count="69260" type="stmt"/>
             <line num="529" count="69260" type="stmt"/>
@@ -7339,12 +7339,12 @@
             <line num="738" count="468488" type="stmt"/>
             <line num="741" count="1201096" type="stmt"/>
             <line num="743" count="1388178" type="stmt"/>
-            <line num="751" count="384" visibility="package" complexity="1" type="method" signature="readFrom(DataInput) : Recurrence"/>
-            <line num="752" count="384" type="stmt"/>
-            <line num="759" count="17187" visibility="package" complexity="1" type="method" signature="Recurrence(OfYear,String,int)"/>
-            <line num="760" count="17187" type="stmt"/>
-            <line num="761" count="17187" type="stmt"/>
-            <line num="762" count="17187" type="stmt"/>
+            <line num="751" count="386" visibility="package" complexity="1" type="method" signature="readFrom(DataInput) : Recurrence"/>
+            <line num="752" count="386" type="stmt"/>
+            <line num="759" count="17189" visibility="package" complexity="1" type="method" signature="Recurrence(OfYear,String,int)"/>
+            <line num="760" count="17189" type="stmt"/>
+            <line num="761" count="17189" type="stmt"/>
+            <line num="762" count="17189" type="stmt"/>
             <line num="765" count="0" visibility="public" complexity="1" type="method" signature="getOfYear() : OfYear"/>
             <line num="766" count="0" type="stmt"/>
             <line num="772" count="1717238" visibility="public" complexity="1" type="method" signature="next(long,int,int) : long"/>
@@ -7551,13 +7551,13 @@
             <line num="1192" count="17282" type="stmt"/>
             <line num="1195" count="0" visibility="public" complexity="1" type="method" signature="toString() : String"/>
             <line num="1197" count="0" type="stmt"/>
-            <line num="1205" count="192" visibility="package" complexity="1" type="method" signature="readFrom(DataInput,String) : DSTZone"/>
-            <line num="1206" count="192" type="stmt"/>
-            <line num="1214" count="500" visibility="package" complexity="1" type="method" signature="DSTZone(String,int,Recurrence,Recurrence)"/>
-            <line num="1216" count="500" type="stmt"/>
-            <line num="1217" count="500" type="stmt"/>
-            <line num="1218" count="500" type="stmt"/>
-            <line num="1219" count="500" type="stmt"/>
+            <line num="1205" count="193" visibility="package" complexity="1" type="method" signature="readFrom(DataInput,String) : DSTZone"/>
+            <line num="1206" count="193" type="stmt"/>
+            <line num="1214" count="501" visibility="package" complexity="1" type="method" signature="DSTZone(String,int,Recurrence,Recurrence)"/>
+            <line num="1216" count="501" type="stmt"/>
+            <line num="1217" count="501" type="stmt"/>
+            <line num="1218" count="501" type="stmt"/>
+            <line num="1219" count="501" type="stmt"/>
             <line num="1222" count="13869" visibility="public" complexity="1" type="method" signature="getNameKey(long) : String"/>
             <line num="1223" count="13869" type="stmt"/>
             <line num="1226" count="14076" visibility="public" complexity="1" type="method" signature="getOffset(long) : int"/>
@@ -7641,30 +7641,30 @@
             <line num="1381" count="498" type="stmt"/>
             <line num="1382" count="498" type="stmt"/>
             <line num="1383" count="498" type="stmt"/>
-            <line num="1383" falsecount="498" type="cond" truecount="2135"/>
-            <line num="1384" count="2135" type="stmt"/>
+            <line num="1383" falsecount="498" type="cond" truecount="2138"/>
+            <line num="1384" count="2138" type="stmt"/>
             <line num="1387" count="498" type="stmt"/>
             <line num="1388" count="498" type="stmt"/>
             <line num="1389" count="498" type="stmt"/>
             <line num="1390" count="498" type="stmt"/>
             <line num="1391" count="498" type="stmt"/>
             <line num="1393" count="498" type="stmt"/>
-            <line num="1393" falsecount="498" type="cond" truecount="24503"/>
-            <line num="1394" count="24503" type="stmt"/>
-            <line num="1395" count="24503" type="stmt"/>
-            <line num="1396" count="24503" type="stmt"/>
-            <line num="1397" count="24503" type="stmt"/>
-            <line num="1398" count="24503" type="stmt"/>
-            <line num="1399" count="24503" type="stmt"/>
-            <line num="1399" falsecount="0" type="cond" truecount="24503"/>
-            <line num="1400" count="24503" type="stmt"/>
+            <line num="1393" falsecount="498" type="cond" truecount="24603"/>
+            <line num="1394" count="24603" type="stmt"/>
+            <line num="1395" count="24603" type="stmt"/>
+            <line num="1396" count="24603" type="stmt"/>
+            <line num="1397" count="24603" type="stmt"/>
+            <line num="1398" count="24603" type="stmt"/>
+            <line num="1399" count="24603" type="stmt"/>
+            <line num="1399" falsecount="0" type="cond" truecount="24603"/>
+            <line num="1400" count="24603" type="stmt"/>
             <line num="1402" count="0" type="stmt"/>
-            <line num="1404" count="24503" type="stmt"/>
+            <line num="1404" count="24603" type="stmt"/>
             <line num="1406" count="0" type="stmt"/>
             <line num="1410" count="498" type="stmt"/>
             <line num="1411" count="498" type="stmt"/>
-            <line num="1411" falsecount="306" type="cond" truecount="192"/>
-            <line num="1412" count="192" type="stmt"/>
+            <line num="1411" falsecount="305" type="cond" truecount="193"/>
+            <line num="1412" count="193" type="stmt"/>
             <line num="1415" count="498" type="stmt"/>
             <line num="1427" count="868" visibility="package" complexity="25" type="method" signature="create(String,boolean,ArrayList&lt;Transition&gt;,DSTZone) : PrecalculatedZone"/>
             <line num="1429" count="868" type="stmt"/>
@@ -10192,13 +10192,13 @@
             <line num="699" count="7" type="stmt"/>
             <line num="700" count="7" type="stmt"/>
             <line num="701" count="7" type="stmt"/>
-            <line num="715" count="3215" visibility="protected" complexity="2" type="method" signature="DateTimeZone(String)"/>
-            <line num="716" count="3215" type="stmt"/>
-            <line num="716" falsecount="3214" type="cond" truecount="1"/>
+            <line num="715" count="3217" visibility="protected" complexity="2" type="method" signature="DateTimeZone(String)"/>
+            <line num="716" count="3217" type="stmt"/>
+            <line num="716" falsecount="3216" type="cond" truecount="1"/>
             <line num="717" count="1" type="stmt"/>
-            <line num="719" count="3214" type="stmt"/>
-            <line num="730" count="136330" visibility="public" complexity="1" type="method" signature="getID() : String"/>
-            <line num="732" count="136330" type="stmt"/>
+            <line num="719" count="3216" type="stmt"/>
+            <line num="730" count="136331" visibility="public" complexity="1" type="method" signature="getID() : String"/>
+            <line num="732" count="136331" type="stmt"/>
             <line num="754" count="1" visibility="public" complexity="1" type="method" signature="getShortName(long) : String"/>
             <line num="755" count="1" type="stmt"/>
             <line num="769" count="2" visibility="public" complexity="5" type="method" signature="getShortName(long,Locale) : String"/>
@@ -20613,20 +20613,20 @@
             <line num="53" count="11675" type="stmt"/>
             <line num="55" count="11675" type="stmt"/>
             <line num="55" falsecount="0" type="cond" truecount="0"/>
-            <line num="56" count="22034" type="stmt"/>
-            <line num="56" falsecount="10509" type="cond" truecount="11525"/>
+            <line num="56" count="11635" type="stmt"/>
+            <line num="56" falsecount="110" type="cond" truecount="11525"/>
             <line num="57" count="11525" type="stmt"/>
-            <line num="59" count="10509" type="stmt"/>
-            <line num="59" falsecount="10508" type="cond" truecount="1"/>
-            <line num="60" count="1" type="stmt"/>
+            <line num="59" count="110" type="stmt"/>
+            <line num="59" falsecount="107" type="cond" truecount="3"/>
+            <line num="60" count="3" type="stmt"/>
             <line num="66" count="150" type="stmt"/>
             <line num="67" count="148" type="stmt"/>
             <line num="79" count="148" type="stmt"/>
             <line num="82" count="148" type="stmt"/>
             <line num="85" count="148" type="stmt"/>
-            <line num="85" falsecount="1" type="cond" truecount="305"/>
-            <line num="86" count="305" type="stmt"/>
-            <line num="86" falsecount="158" type="cond" truecount="147"/>
+            <line num="85" falsecount="1" type="cond" truecount="308"/>
+            <line num="86" count="308" type="stmt"/>
+            <line num="86" falsecount="161" type="cond" truecount="147"/>
             <line num="88" count="147" type="stmt"/>
             <line num="89" count="147" type="stmt"/>
             <line num="95" count="1" type="stmt"/>
@@ -20638,9 +20638,9 @@
             <line num="100" count="16" type="stmt"/>
             <line num="100" falsecount="15" type="cond" truecount="1"/>
             <line num="101" count="16" type="stmt"/>
-            <line num="101" falsecount="16" type="cond" truecount="8"/>
-            <line num="102" count="8" type="stmt"/>
-            <line num="102" falsecount="8" type="cond" truecount="0"/>
+            <line num="101" falsecount="16" type="cond" truecount="5"/>
+            <line num="102" count="5" type="stmt"/>
+            <line num="102" falsecount="5" type="cond" truecount="0"/>
             <line num="103" count="0" type="stmt"/>
             <line num="106" count="16" type="stmt"/>
             <line num="110" count="1" type="stmt"/>
@@ -21086,7 +21086,7 @@
          </file>
       </package>
    </project>
-   <testproject timestamp="1651680985750" name="Joda-Time 2.10.11-SNAPSHOT">
+   <testproject timestamp="1651686798715" name="Joda-Time 2.10.11-SNAPSHOT">
       <metrics conditionals="0" methods="0" classes="0" files="0" packages="0" coveredstatements="0" complexity="0" loc="0" ncloc="0" coveredmethods="0" coveredconditionals="0" statements="0" coveredelements="0" elements="0"/>
    </testproject>
 </coverage>
