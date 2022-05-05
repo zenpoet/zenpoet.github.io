@@ -49,7 +49,7 @@ var Packages = {
     "text": "convert",
     "package": "org.joda.time.convert",
     "url": "org/joda/time/convert/pkg-summary.html",
-            "coverage": "97.6%",
+            "coverage": "97.3%",
         "icon": "aui-icon aui-icon-small aui-iconfont-devtools-folder-closed",
             "li_attr": {"data-is-link": "true"},
         "a_attr": {"href": "org/joda/time/convert/pkg-summary.html"},
