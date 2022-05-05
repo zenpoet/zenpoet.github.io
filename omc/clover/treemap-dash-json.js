@@ -1,5 +1,5 @@
-var treeMapJson = {"id":"Clover database Thu May 5 2022 17:05:29 UTC0","name":"","data":{
-    "$area":22421.0,"$color":87.030014,"title":
+var treeMapJson = {"id":"Clover database Thu May 5 2022 17:09:33 UTC0","name":"","data":{
+    "$area":22421.0,"$color":87.03893,"title":
     " 22421 Elements, 87% Coverage"},"children":[{"id":
       "org.joda.time.field13377","name":"org.joda.time.field","data":{
         "$area":1794.0,"$color":78.14938,"title":
@@ -20,7 +20,7 @@ var treeMapJson = {"id":"Clover database Thu May 5 2022 17:05:29 UTC0","name":""
         "$area":5119.0,"$color":82.2817,"title":
         "org.joda.time.format 5119 Elements, 82.3% Coverage"},"children":[]},
     {"id":"org.joda.time.convert12636","name":"org.joda.time.convert","data":
-      {"$area":741.0,"$color":97.57085,"title":
-        "org.joda.time.convert 741 Elements, 97.6% Coverage"},"children":[]}]}
+      {"$area":741.0,"$color":97.84076,"title":
+        "org.joda.time.convert 741 Elements, 97.8% Coverage"},"children":[]}]}
 ;
 processTreeMapDashJson (treeMapJson);
