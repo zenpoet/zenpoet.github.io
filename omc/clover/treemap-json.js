@@ -1,5 +1,5 @@
-var treeMapJson = {"id":"Clover database Tue May 10 2022 17:33:32 UTC0","name":"","data":{
-    "$area":22421.0,"$color":87.030014,"title":
+var treeMapJson = {"id":"Clover database Tue May 10 2022 20:08:08 UTC0","name":"","data":{
+    "$area":22421.0,"$color":87.03893,"title":
     " 22421 Elements, 87% Coverage"},"children":[{"id":
       "org.joda.time.field13377","name":"org.joda.time.field","data":{
         "$area":1794.0,"$color":78.14938,"title":
@@ -1086,8 +1086,8 @@ var treeMapJson = {"id":"Clover database Tue May 10 2022 17:33:32 UTC0","name":"
             "org/joda/time/format/PeriodPrinter.html#PeriodPrinter","title":
             "PeriodPrinter 0 Elements,  -  Coverage"},"children":[]}]},{"id":
       "org.joda.time.convert12636","name":"org.joda.time.convert","data":{
-        "$area":741.0,"$color":97.57085,"title":
-        "org.joda.time.convert 741 Elements, 97.6% Coverage"},"children":[{
+        "$area":741.0,"$color":97.84076,"title":
+        "org.joda.time.convert 741 Elements, 97.8% Coverage"},"children":[{
           "id":"AbstractConverter12636","name":"AbstractConverter","data":{
             "$area":21.0,"$color":100.0,"path":
             "org/joda/time/convert/AbstractConverter.html#AbstractConverter",
@@ -1105,9 +1105,9 @@ var treeMapJson = {"id":"Clover database Tue May 10 2022 17:33:32 UTC0","name":"
             "org/joda/time/convert/ConverterManager.html#ConverterManager",
             "title":"ConverterManager 215 Elements, 95.3% Coverage"},
           "children":[]},{"id":"ConverterSet12910","name":"ConverterSet",
-          "data":{"$area":195.0,"$color":97.4359,"path":
+          "data":{"$area":195.0,"$color":98.46154,"path":
             "org/joda/time/convert/ConverterSet.html#ConverterSet","title":
-            "ConverterSet 195 Elements, 97.4% Coverage"},"children":[]},{
+            "ConverterSet 195 Elements, 98.5% Coverage"},"children":[]},{
           "id":"ConverterSet.Entry13105","name":"ConverterSet.Entry","data":{
             "$area":3.0,"$color":100.0,"path":
             "org/joda/time/convert/ConverterSet.html#ConverterSet.Entry",
