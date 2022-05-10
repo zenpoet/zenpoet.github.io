@@ -3054,6 +3054,7 @@ org.joda.time.field.ScaledDurationField.getMillis:76
 org.joda.time.convert.ConverterSet.selectSlow:245
 org.joda.time.convert.ConverterSet.copyInto:125
 org.joda.time.convert.ConverterSet.select:106
+org.joda.time.convert.ConverterSet.select:103
 org.joda.time.convert.ConverterSet.select:101
 org.joda.time.convert.ConverterSet.select:102
 org.joda.time.convert.ConverterSet.select:100
