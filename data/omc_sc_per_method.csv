@@ -1572,7 +1572,7 @@ org.joda.time.field.BaseDateTimeField.getMaximumTextLength,100.0,100.0,0.0
 org.joda.time.TimeOfDay.toLocalTime,100.0,100.0,0.0
 org.joda.time.LocalDateTime.getField,100.0,50.0,50.0
 org.joda.time.field.AbstractReadableInstantFieldProperty.getMaximumValue,100.0,100.0,0.0
-org.joda.time.convert.ConverterSet.select,100.0,48.27586,51.72414
+org.joda.time.convert.ConverterSet.select,96.55172,48.27586,48.27586
 org.joda.time.YearMonthDay.year,100.0,100.0,0.0
 org.joda.time.Partial.get,100.0,100.0,0.0
 org.joda.time.DateTime.withHourOfDay,100.0,100.0,0.0
