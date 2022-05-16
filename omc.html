@@ -46,7 +46,7 @@
         }
 
         CsvToHtmlTable.init({
-            csv_path: "data/omc_sc_per_class.xref.csv",
+            csv_path: "data/omc_sc_per_class.csv",
             element: "table-container",
             allow_download: false,
             csv_options: {
@@ -57,7 +57,7 @@
                 paging: false
             },
             custom_formatting: [
-                [4, format_link]
+                [0, format_link]
             ]
         });
     </script>
