@@ -41,10 +41,11 @@
     <script>
         function format_link(link) {
             if (link) {
+                /* link is of the form: org.joda.time.Foobar */
                 let splitted=link.replaceAll('.','/').split('/');
                 let className = splitted[splitted.length-1];
                 let packageName = splitted.slice(0,splitted.length-1).join('/');
-                let hlink = 'omc/clover/ + packageName + '/' + className + '.html';
+                let hlink = 'omc/clover/' + packageName + '/' + className + '.html';
                 return "<a href='" + hlink + "' target='_blank'>" + link + "</a>";
             }
             else return "";
