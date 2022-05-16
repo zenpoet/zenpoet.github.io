@@ -41,14 +41,11 @@
     <script>
         function format_link(link) {
             if (link) {
-                let splitted=link.replace('.','/').split('/');
+                let splitted=link.replaceAll('.','/').split('/');
                 let className = splitted[splitted.length-1];
-                return "className: " + className;
-/*
-                let packageName = splitted.slice(0,-1);
-                link = 'omc/clover/ + packageName + '/' + className + '.html';
-                return "<a href='" + link + "' target='_blank'>" + link + "</a>";
-*/
+                let packageName = splitted.slice(0,splitted.length-1).join('/');
+                let hlink = 'omc/clover/ + packageName + '/' + className + '.html';
+                return "<a href='" + hlink + "' target='_blank'>" + link + "</a>";
             }
             else return "";
         }
