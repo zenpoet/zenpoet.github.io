@@ -3078,6 +3078,7 @@ org.joda.time.convert.ConverterSet.selectSlow:278
 org.joda.time.convert.ConverterSet.selectSlow:311
 org.joda.time.convert.ConverterSet.selectSlow:315
 org.joda.time.convert.ConverterSet.selectSlow:310
+org.joda.time.convert.ConverterSet.select:60
 org.joda.time.convert.ConverterSet.select:99
 org.joda.time.convert.ConverterSet.select:97
 org.joda.time.convert.ConverterSet.select:98
@@ -5839,4 +5840,5 @@ org.joda.time.chrono.BuddhistChronology.equals:180
 org.joda.time.chrono.BuddhistChronology.toString:207
 org.joda.time.chrono.BuddhistChronology.readResolve:139
 org.joda.time.chrono.BuddhistChronology.getInstance:113
+org.joda.time.chrono.BuddhistChronology.hashCode:196
 org.joda.time.chrono.BuddhistChronology.readResolve:140
