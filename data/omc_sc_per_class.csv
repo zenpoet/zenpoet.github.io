@@ -44,7 +44,7 @@ org.joda.time.tz.DateTimeZoneBuilder,88.88889,21.62963,67.25926
 org.joda.time.format.DateTimeParserBucket,95.27027,79.054054,16.216217
 org.joda.time.field.UnsupportedDateTimeField,100.0,95.522385,4.4776154
 org.joda.time.field.ScaledDurationField,100.0,85.71429,14.285713
-org.joda.time.convert.ConverterSet,99.1453,69.230774,29.914528
+org.joda.time.convert.ConverterSet,98.290596,69.230774,29.059822
 org.joda.time.field.PreciseDurationDateTimeField,100.0,76.0,24.0
 org.joda.time.MonthDay,97.41379,54.310345,43.103443
 org.joda.time.MutablePeriod,96.55172,59.770115,36.781605

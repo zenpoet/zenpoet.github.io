@@ -2285,7 +2285,7 @@ org.joda.time.LocalDateTime.getField,0,12,12
 org.joda.time.field.DelegatedDurationField.getDifference,1,0,1
 org.joda.time.field.AbstractReadableInstantFieldProperty.getMaximumValue,0,1,1
 org.joda.time.YearMonthDay.year,0,1,1
-org.joda.time.convert.ConverterSet.select,1,28,29
+org.joda.time.convert.ConverterSet.select,2,27,29
 org.joda.time.Months.readResolve,0,1,1
 org.joda.time.Partial.get,0,1,1
 org.joda.time.DateTime.withHourOfDay,0,1,1
