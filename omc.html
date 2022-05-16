@@ -43,9 +43,12 @@
             if (link) {
                 let splitted=link.replace('.','/').split('/');
                 let className = splitted[splitted.length-1];
+                return "className: " + className;
+/*
                 let packageName = splitted.slice(0,-1);
                 link = 'omc/clover/ + packageName + '/' + className + '.html';
                 return "<a href='" + link + "' target='_blank'>" + link + "</a>";
+*/
             }
             else return "";
         }
