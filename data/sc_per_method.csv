@@ -1120,7 +1120,7 @@ org.joda.time.chrono.ISOYearOfEraDateTimeField.get,0,2,2
 org.joda.time.MutableDateTime.setMinuteOfHour,0,1,1
 org.joda.time.MutableDateTime.setSecondOfMinute,0,1,1
 org.joda.time.base.BaseDateTime.checkInstant,0,1,1
-org.joda.time.chrono.BuddhistChronology.hashCode,0,1,1
+org.joda.time.chrono.BuddhistChronology.hashCode,1,0,1
 org.joda.time.Hours.hoursBetween,0,8,8
 org.joda.time.convert.StringConverter.getDurationMillis,1,28,29
 org.joda.time.Weeks.isLessThan,0,3,3
@@ -2285,7 +2285,7 @@ org.joda.time.LocalDateTime.getField,0,12,12
 org.joda.time.field.DelegatedDurationField.getDifference,1,0,1
 org.joda.time.field.AbstractReadableInstantFieldProperty.getMaximumValue,0,1,1
 org.joda.time.YearMonthDay.year,0,1,1
-org.joda.time.convert.ConverterSet.select,1,28,29
+org.joda.time.convert.ConverterSet.select,0,29,29
 org.joda.time.Months.readResolve,0,1,1
 org.joda.time.Partial.get,0,1,1
 org.joda.time.DateTime.withHourOfDay,0,1,1
