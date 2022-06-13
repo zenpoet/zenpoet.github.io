@@ -1,5 +1,5 @@
-var treeMapJson = {"id":"Clover database Mon Jun 13 2022 19:29:52 UTC0","name":"","data":{
-    "$area":22421.0,"$color":87.021095,"title":
+var treeMapJson = {"id":"Clover database Mon Jun 13 2022 20:02:25 UTC0","name":"","data":{
+    "$area":22421.0,"$color":87.00326,"title":
     " 22421 Elements, 87% Coverage"},"children":[{"id":
       "org.joda.time.field13377","name":"org.joda.time.field","data":{
         "$area":1794.0,"$color":78.0379,"title":
@@ -8,8 +8,8 @@ var treeMapJson = {"id":"Clover database Mon Jun 13 2022 19:29:52 UTC0","name":"
         "$area":1190.0,"$color":99.07563,"title":
         "org.joda.time.base 1190 Elements, 99.1% Coverage"},"children":[]},{
       "id":"org.joda.time.chrono8423","name":"org.joda.time.chrono","data":{
-        "$area":4213.0,"$color":78.23403,"title":
-        "org.joda.time.chrono 4213 Elements, 78.2% Coverage"},"children":[]},
+        "$area":4213.0,"$color":78.13909,"title":
+        "org.joda.time.chrono 4213 Elements, 78.1% Coverage"},"children":[]},
     {"id":"org.joda.time.tz20290","name":"org.joda.time.tz","data":{"$area":
         2131.0,"$color":82.07414,"title":
         "org.joda.time.tz 2131 Elements, 82.1% Coverage"},"children":[]},{

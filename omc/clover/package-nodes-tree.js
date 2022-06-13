@@ -35,7 +35,7 @@ var Packages = {
     "text": "chrono",
     "package": "org.joda.time.chrono",
     "url": "org/joda/time/chrono/pkg-summary.html",
-            "coverage": "78.2%",
+            "coverage": "78.1%",
         "icon": "aui-icon aui-icon-small aui-iconfont-devtools-folder-closed",
             "li_attr": {"data-is-link": "true"},
         "a_attr": {"href": "org/joda/time/chrono/pkg-summary.html"},
