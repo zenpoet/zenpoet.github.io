@@ -1,10 +1,10 @@
-var treeMapJson = {"id":"Clover database Mon Jun 13 2022 20:02:25 UTC0","name":"","data":{
-    "$area":22421.0,"$color":87.00326,"title":
+var treeMapJson = {"id":"Clover database Mon Jun 13 2022 20:21:58 UTC0","name":"","data":{
+    "$area":22421.0,"$color":87.030014,"title":
     " 22421 Elements, 87% Coverage"},"children":[{"id":
       "org.joda.time.field13377","name":"org.joda.time.field","data":{
-        "$area":1794.0,"$color":78.0379,"title":
-        "org.joda.time.field 1794 Elements, 78% Coverage"},"children":[{"id":
-          "AbstractPartialFieldProperty13377","name":
+        "$area":1794.0,"$color":78.14938,"title":
+        "org.joda.time.field 1794 Elements, 78.1% Coverage"},"children":[{
+          "id":"AbstractPartialFieldProperty13377","name":
           "AbstractPartialFieldProperty","data":{"$area":83.0,"$color":
             100.0,"path":
             "org/joda/time/field/AbstractPartialFieldProperty.html#AbstractPartialFieldProperty",
@@ -107,10 +107,10 @@ var treeMapJson = {"id":"Clover database Mon Jun 13 2022 20:02:25 UTC0","name":"
             "org/joda/time/field/SkipDateTimeField.html#SkipDateTimeField",
             "title":"SkipDateTimeField 38 Elements, 78.9% Coverage"},
           "children":[]},{"id":"SkipUndoDateTimeField14845","name":
-          "SkipUndoDateTimeField","data":{"$area":34.0,"$color":70.588234,
+          "SkipUndoDateTimeField","data":{"$area":34.0,"$color":76.47059,
             "path":
             "org/joda/time/field/SkipUndoDateTimeField.html#SkipUndoDateTimeField",
-            "title":"SkipUndoDateTimeField 34 Elements, 70.6% Coverage"},
+            "title":"SkipUndoDateTimeField 34 Elements, 76.5% Coverage"},
           "children":[]},{"id":"StrictDateTimeField14879","name":
           "StrictDateTimeField","data":{"$area":21.0,"$color":38.095238,
             "path":
@@ -186,8 +186,8 @@ var treeMapJson = {"id":"Clover database Mon Jun 13 2022 20:02:25 UTC0","name":"
             "org/joda/time/base/BaseSingleFieldPeriod.html#BaseSingleFieldPeriod",
             "title":"BaseSingleFieldPeriod 119 Elements, 98.3% Coverage"},
           "children":[]}]},{"id":"org.joda.time.chrono8423","name":
-      "org.joda.time.chrono","data":{"$area":4213.0,"$color":78.13909,
-        "title":"org.joda.time.chrono 4213 Elements, 78.1% Coverage"},
+      "org.joda.time.chrono","data":{"$area":4213.0,"$color":78.23403,
+        "title":"org.joda.time.chrono 4213 Elements, 78.2% Coverage"},
       "children":[{"id":"AssembledChronology8423","name":
           "AssembledChronology","data":{"$area":236.0,"$color":66.52542,
             "path":
@@ -270,10 +270,10 @@ var treeMapJson = {"id":"Clover database Mon Jun 13 2022 20:02:25 UTC0","name":"
             "org/joda/time/chrono/BasicYearDateTimeField.html#BasicYearDateTimeField",
             "title":"BasicYearDateTimeField 67 Elements, 97% Coverage"},
           "children":[]},{"id":"BuddhistChronology10020","name":
-          "BuddhistChronology","data":{"$area":81.0,"$color":83.950615,
-            "path":
+          "BuddhistChronology","data":{"$area":81.0,"$color":88.88889,"path":
+            
             "org/joda/time/chrono/BuddhistChronology.html#BuddhistChronology",
-            "title":"BuddhistChronology 81 Elements, 84% Coverage"},
+            "title":"BuddhistChronology 81 Elements, 88.9% Coverage"},
           "children":[]},{"id":"CopticChronology10101","name":
           "CopticChronology","data":{"$area":100.0,"$color":96.0,"path":
             "org/joda/time/chrono/CopticChronology.html#CopticChronology",
