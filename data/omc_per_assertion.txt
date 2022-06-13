@@ -1121,6 +1121,7 @@ criterion: org.joda.time.chrono.TestBuddhistChronology.testFactoryUTC:166:*, org
 	org.joda.time.chrono.ZonedChronology.assemble:165
 	org.joda.time.DurationFieldType$StandardDurationFieldType.hashCode:278
 	org.joda.time.chrono.GregorianChronology.getInstance:136
+	org.joda.time.chrono.BuddhistChronology.withZone:162
 	org.joda.time.chrono.BuddhistChronology.withZone:161
 	org.joda.time.chrono.BuddhistChronology.withZone:167
 	org.joda.time.chrono.BuddhistChronology.withZone:165
@@ -1290,6 +1291,7 @@ criterion: org.joda.time.chrono.TestBuddhistChronology.testFactoryUTC:166:*, org
 	org.joda.time.tz.DateTimeZoneBuilder.readFrom:96
 	org.joda.time.chrono.AssembledChronology.getBase:308
 	org.joda.time.chrono.BuddhistChronology.getInstance:111
+	org.joda.time.chrono.BuddhistChronology.getInstance:106
 	org.joda.time.chrono.BuddhistChronology.getInstance:105
 	org.joda.time.base.BaseDateTime.<init>:257
 	org.joda.time.chrono.BuddhistChronology.getInstance:109
@@ -6090,6 +6092,7 @@ criterion: org.joda.time.chrono.TestBuddhistChronology.testFactoryUTC:166:*, org
 	org.joda.time.chrono.ZonedChronology.assemble:165
 	org.joda.time.DurationFieldType$StandardDurationFieldType.hashCode:278
 	org.joda.time.chrono.GregorianChronology.getInstance:136
+	org.joda.time.chrono.BuddhistChronology.withZone:162
 	org.joda.time.chrono.BuddhistChronology.withZone:161
 	org.joda.time.chrono.BuddhistChronology.withZone:167
 	org.joda.time.chrono.BuddhistChronology.withZone:165
@@ -6259,6 +6262,7 @@ criterion: org.joda.time.chrono.TestBuddhistChronology.testFactoryUTC:166:*, org
 	org.joda.time.tz.DateTimeZoneBuilder.readFrom:96
 	org.joda.time.chrono.AssembledChronology.getBase:308
 	org.joda.time.chrono.BuddhistChronology.getInstance:111
+	org.joda.time.chrono.BuddhistChronology.getInstance:106
 	org.joda.time.chrono.BuddhistChronology.getInstance:105
 	org.joda.time.base.BaseDateTime.<init>:257
 	org.joda.time.chrono.BuddhistChronology.getInstance:109
@@ -11186,6 +11190,7 @@ criterion: org.joda.time.chrono.TestBuddhistChronology.testFactoryUTC:166:*, org
 	org.joda.time.chrono.ZonedChronology.assemble:165
 	org.joda.time.DurationFieldType$StandardDurationFieldType.hashCode:278
 	org.joda.time.chrono.GregorianChronology.getInstance:136
+	org.joda.time.chrono.BuddhistChronology.withZone:162
 	org.joda.time.chrono.BuddhistChronology.withZone:161
 	org.joda.time.chrono.BuddhistChronology.withZone:167
 	org.joda.time.chrono.BuddhistChronology.withZone:165
@@ -11355,6 +11360,7 @@ criterion: org.joda.time.chrono.TestBuddhistChronology.testFactoryUTC:166:*, org
 	org.joda.time.tz.DateTimeZoneBuilder.readFrom:96
 	org.joda.time.chrono.AssembledChronology.getBase:308
 	org.joda.time.chrono.BuddhistChronology.getInstance:111
+	org.joda.time.chrono.BuddhistChronology.getInstance:106
 	org.joda.time.chrono.BuddhistChronology.getInstance:105
 	org.joda.time.base.BaseDateTime.<init>:257
 	org.joda.time.chrono.BuddhistChronology.getInstance:109
@@ -24700,6 +24706,7 @@ criterion: org.joda.time.chrono.TestBuddhistChronology.testFactoryUTC:166:*, org
 	org.joda.time.chrono.ZonedChronology.assemble:165
 	org.joda.time.DurationFieldType$StandardDurationFieldType.hashCode:278
 	org.joda.time.chrono.GregorianChronology.getInstance:136
+	org.joda.time.chrono.BuddhistChronology.withZone:162
 	org.joda.time.chrono.BuddhistChronology.withZone:161
 	org.joda.time.chrono.BuddhistChronology.withZone:167
 	org.joda.time.chrono.BuddhistChronology.withZone:165
@@ -24869,6 +24876,7 @@ criterion: org.joda.time.chrono.TestBuddhistChronology.testFactoryUTC:166:*, org
 	org.joda.time.tz.DateTimeZoneBuilder.readFrom:96
 	org.joda.time.chrono.AssembledChronology.getBase:308
 	org.joda.time.chrono.BuddhistChronology.getInstance:111
+	org.joda.time.chrono.BuddhistChronology.getInstance:106
 	org.joda.time.chrono.BuddhistChronology.getInstance:105
 	org.joda.time.base.BaseDateTime.<init>:257
 	org.joda.time.chrono.BuddhistChronology.getInstance:109
@@ -40168,6 +40176,7 @@ criterion: org.joda.time.chrono.TestBuddhistChronology.testFactoryUTC:166:*, org
 	org.joda.time.chrono.ZonedChronology.assemble:165
 	org.joda.time.DurationFieldType$StandardDurationFieldType.hashCode:278
 	org.joda.time.chrono.GregorianChronology.getInstance:136
+	org.joda.time.chrono.BuddhistChronology.withZone:162
 	org.joda.time.chrono.BuddhistChronology.withZone:161
 	org.joda.time.chrono.BuddhistChronology.withZone:167
 	org.joda.time.chrono.BuddhistChronology.withZone:165
@@ -40337,6 +40346,7 @@ criterion: org.joda.time.chrono.TestBuddhistChronology.testFactoryUTC:166:*, org
 	org.joda.time.tz.DateTimeZoneBuilder.readFrom:96
 	org.joda.time.chrono.AssembledChronology.getBase:308
 	org.joda.time.chrono.BuddhistChronology.getInstance:111
+	org.joda.time.chrono.BuddhistChronology.getInstance:106
 	org.joda.time.chrono.BuddhistChronology.getInstance:105
 	org.joda.time.base.BaseDateTime.<init>:257
 	org.joda.time.chrono.BuddhistChronology.getInstance:109

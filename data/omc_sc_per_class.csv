@@ -12,7 +12,7 @@ org.joda.time.field.UnsupportedDurationField,60.000004,32.5,27.500004
 org.joda.time.field.LenientDateTimeField,71.42857,57.14286,14.285713
 org.joda.time.DateTimeComparator,100.0,90.909096,9.090904
 org.joda.time.base.AbstractDateTime,100.0,89.74359,10.256409
-org.joda.time.field.SkipUndoDateTimeField,75.0,10.0,65.0
+org.joda.time.field.SkipUndoDateTimeField,80.0,10.0,70.0
 org.joda.time.convert.AbstractConverter,100.0,80.0,20.0
 org.joda.time.format.PeriodFormatterBuilder,93.8802,36.71875,57.161453
 org.joda.time.chrono.ISOChronology,97.61904,61.904762,35.71428
@@ -132,4 +132,4 @@ org.joda.time.Instant,100.0,87.09677,12.903229
 org.joda.time.convert.CalendarConverter,100.0,86.95652,13.04348
 org.joda.time.chrono.BasicDayOfYearDateTimeField,77.27273,9.090909,68.181816
 org.joda.time.field.BaseDurationField,100.0,85.71429,14.285713
-org.joda.time.chrono.BuddhistChronology,88.0,74.0,14.0
+org.joda.time.chrono.BuddhistChronology,92.0,78.0,14.0
