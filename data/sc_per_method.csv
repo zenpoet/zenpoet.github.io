@@ -109,7 +109,7 @@ org.joda.time.chrono.BasicFixedMonthChronology.getYearDifference,0,8,8
 org.joda.time.LocalDateTime.toLocalDate,0,1,1
 org.joda.time.format.ISODateTimeFormat.weekDate,0,1,1
 org.joda.time.base.AbstractInstant.toDate,0,1,1
-org.joda.time.chrono.BuddhistChronology.getInstance,1,11,12
+org.joda.time.chrono.BuddhistChronology.getInstance,2,10,12
 org.joda.time.chrono.LimitChronology.getValue,0,2,2
 org.joda.time.chrono.BasicDayOfYearDateTimeField.get,0,1,1
 org.joda.time.chrono.LimitChronology.getUpperLimit,0,1,1
@@ -2508,7 +2508,7 @@ org.joda.time.format.PeriodFormatterBuilder.addArrayToList,0,3,3
 org.joda.time.PeriodType.time,0,5,5
 org.joda.time.Period.toStandardHours,0,9,9
 org.joda.time.base.AbstractPartial.toDateTime,0,4,4
-org.joda.time.chrono.BuddhistChronology.withZone,0,5,5
+org.joda.time.chrono.BuddhistChronology.withZone,1,4,5
 org.joda.time.Partial.property,0,1,1
 org.joda.time.chrono.AssembledChronology.clockhourOfDay,0,1,1
 org.joda.time.LocalDateTime.withDayOfMonth,0,1,1

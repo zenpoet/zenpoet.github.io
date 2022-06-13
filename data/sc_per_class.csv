@@ -164,4 +164,4 @@ org.joda.time.ReadablePartial,0,0,0
 org.joda.time.chrono.BasicDayOfYearDateTimeField,5,17,22
 org.joda.time.field.BaseDurationField,0,21,21
 org.joda.time.DateTimeConstants,0,0,0
-org.joda.time.chrono.BuddhistChronology,4,46,50
+org.joda.time.chrono.BuddhistChronology,6,44,50

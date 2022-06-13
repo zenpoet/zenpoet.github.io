@@ -74,7 +74,7 @@ org.joda.time.DateMidnight.yearOfCentury,100.0,100.0,0.0
 org.joda.time.LocalDateTime.toLocalDate,100.0,100.0,0.0
 org.joda.time.format.ISODateTimeFormat.weekDate,100.0,100.0,0.0
 org.joda.time.base.AbstractInstant.toDate,100.0,100.0,0.0
-org.joda.time.chrono.BuddhistChronology.getInstance,91.66667,75.0,16.666672
+org.joda.time.chrono.BuddhistChronology.getInstance,83.33333,66.66667,16.666656
 org.joda.time.chrono.LimitChronology.getValue,100.0,50.0,50.0
 org.joda.time.chrono.BasicDayOfYearDateTimeField.get,100.0,100.0,0.0
 org.joda.time.chrono.LimitChronology.getUpperLimit,100.0,100.0,0.0
@@ -1729,7 +1729,7 @@ org.joda.time.format.PeriodFormatterBuilder.addArrayToList,100.0,100.0,0.0
 org.joda.time.IllegalInstantException.isIllegalInstant,80.0,60.000004,19.999996
 org.joda.time.PeriodType.time,100.0,100.0,0.0
 org.joda.time.Period.toStandardHours,100.0,88.88889,11.111107
-org.joda.time.chrono.BuddhistChronology.withZone,100.0,100.0,0.0
+org.joda.time.chrono.BuddhistChronology.withZone,80.0,80.0,0.0
 org.joda.time.Partial.property,100.0,100.0,0.0
 org.joda.time.base.AbstractPartial.toDateTime,100.0,100.0,0.0
 org.joda.time.chrono.AssembledChronology.clockhourOfDay,100.0,100.0,0.0

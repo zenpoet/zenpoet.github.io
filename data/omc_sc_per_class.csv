@@ -132,4 +132,4 @@ org.joda.time.Instant,100.0,87.09677,12.903229
 org.joda.time.convert.CalendarConverter,100.0,86.95652,13.04348
 org.joda.time.chrono.BasicDayOfYearDateTimeField,77.27273,9.090909,68.181816
 org.joda.time.field.BaseDurationField,100.0,85.71429,14.285713
-org.joda.time.chrono.BuddhistChronology,92.0,78.0,14.0
+org.joda.time.chrono.BuddhistChronology,88.0,74.0,14.0
