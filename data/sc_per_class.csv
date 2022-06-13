@@ -16,7 +16,7 @@ org.joda.time.field.UnsupportedDurationField,16,24,40
 org.joda.time.field.LenientDateTimeField,4,10,14
 org.joda.time.DateTimeComparator,0,44,44
 org.joda.time.ReadWritableInterval,0,0,0
-org.joda.time.field.SkipUndoDateTimeField,4,16,20
+org.joda.time.field.SkipUndoDateTimeField,5,15,20
 org.joda.time.base.AbstractDateTime,0,39,39
 org.joda.time.convert.AbstractConverter,0,10,10
 org.joda.time.format.PeriodFormatterBuilder,47,721,768
