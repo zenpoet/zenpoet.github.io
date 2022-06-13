@@ -1,10 +1,10 @@
-var treeMapJson = {"id":"Clover database Mon Jun 13 2022 19:18:26 UTC0","name":"","data":{
-    "$area":22421.0,"$color":87.030014,"title":
+var treeMapJson = {"id":"Clover database Mon Jun 13 2022 19:29:52 UTC0","name":"","data":{
+    "$area":22421.0,"$color":87.021095,"title":
     " 22421 Elements, 87% Coverage"},"children":[{"id":
       "org.joda.time.field13377","name":"org.joda.time.field","data":{
-        "$area":1794.0,"$color":78.14938,"title":
-        "org.joda.time.field 1794 Elements, 78.1% Coverage"},"children":[{
-          "id":"AbstractPartialFieldProperty13377","name":
+        "$area":1794.0,"$color":78.0379,"title":
+        "org.joda.time.field 1794 Elements, 78% Coverage"},"children":[{"id":
+          "AbstractPartialFieldProperty13377","name":
           "AbstractPartialFieldProperty","data":{"$area":83.0,"$color":
             100.0,"path":
             "org/joda/time/field/AbstractPartialFieldProperty.html#AbstractPartialFieldProperty",
@@ -107,10 +107,10 @@ var treeMapJson = {"id":"Clover database Mon Jun 13 2022 19:18:26 UTC0","name":"
             "org/joda/time/field/SkipDateTimeField.html#SkipDateTimeField",
             "title":"SkipDateTimeField 38 Elements, 78.9% Coverage"},
           "children":[]},{"id":"SkipUndoDateTimeField14845","name":
-          "SkipUndoDateTimeField","data":{"$area":34.0,"$color":76.47059,
+          "SkipUndoDateTimeField","data":{"$area":34.0,"$color":70.588234,
             "path":
             "org/joda/time/field/SkipUndoDateTimeField.html#SkipUndoDateTimeField",
-            "title":"SkipUndoDateTimeField 34 Elements, 76.5% Coverage"},
+            "title":"SkipUndoDateTimeField 34 Elements, 70.6% Coverage"},
           "children":[]},{"id":"StrictDateTimeField14879","name":
           "StrictDateTimeField","data":{"$area":21.0,"$color":38.095238,
             "path":

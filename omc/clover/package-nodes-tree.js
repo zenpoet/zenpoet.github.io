@@ -63,7 +63,7 @@ var Packages = {
     "text": "field",
     "package": "org.joda.time.field",
     "url": "org/joda/time/field/pkg-summary.html",
-            "coverage": "78.1%",
+            "coverage": "78%",
         "icon": "aui-icon aui-icon-small aui-iconfont-devtools-folder-closed",
             "li_attr": {"data-is-link": "true"},
         "a_attr": {"href": "org/joda/time/field/pkg-summary.html"},
