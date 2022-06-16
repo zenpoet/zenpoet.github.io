@@ -54,7 +54,7 @@ org.joda.time.field.UnsupportedDateTimeField,0,67,67
 org.joda.time.field.ScaledDurationField,0,35,35
 org.joda.time.chrono.ISOYearOfEraDateTimeField,13,7,20
 org.joda.time.ReadWritablePeriod,0,0,0
-org.joda.time.convert.ConverterSet,2,115,117
+org.joda.time.convert.ConverterSet,0,117,117
 org.joda.time.field.PreciseDurationDateTimeField,0,25,25
 org.joda.time.MonthDay,3,113,116
 org.joda.time.chrono.GJCacheKey,10,19,29
